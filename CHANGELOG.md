@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.0.1...v1.1.0) (2024-09-25)
+
+
+### Features
+
+* add enum for Format ([dd11c95](https://github.com/bespin-studios/datavalidation-shared/commit/dd11c954a0707ddf1977594fe4761fd0bd529958))
+
 ## [1.0.1](https://github.com/bespin-studios/datavalidation-shared/compare/v1.0.0...v1.0.1) (2024-09-25)
 
 
