@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.1.0...v1.2.0) (2024-10-01)
+
+
+### Features
+
+* add enum case for France ([c152ca9](https://github.com/bespin-studios/datavalidation-shared/commit/c152ca94792d4ae8e875f6fec77db080820450fd))
+
 # [1.1.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.0.1...v1.1.0) (2024-09-25)
 
 
