@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/bespin-studios/datavalidation-shared/compare/v1.2.0...v1.2.1) (2025-05-20)
+
+
+### Bug Fixes
+
+* pipeline ([0f69bec](https://github.com/bespin-studios/datavalidation-shared/commit/0f69bec8e481bb0ba01f5bbae6e9798984907d7d))
+
 # [1.2.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.1.0...v1.2.0) (2024-10-01)
 
 
