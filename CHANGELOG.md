@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.3.0...v1.4.0) (2026-05-06)
+
+
+### Features
+
+* add enum case for other european countries ([beb3de2](https://github.com/bespin-studios/datavalidation-shared/commit/beb3de23deeecab8211424f9f565b68b73299019))
+* add method to determine the country by country code ([b17454a](https://github.com/bespin-studios/datavalidation-shared/commit/b17454a854a7e60a7a3d4d7d0a352f8cec4d48c3))
+
 # [1.3.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.2.1...v1.3.0) (2026-05-06)
 
 
