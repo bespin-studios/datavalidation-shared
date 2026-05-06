@@ -32,4 +32,42 @@ enum Country
     case Spain;
     case Sweden;
     case UnitedKingdom;
+
+    public static function byCode(string $code): ?Country
+    {
+        if (strlen($code) !== 2) {
+            return null;
+        }
+        return match (strtoupper($code)) {
+            'AT'    => Country::Austria,
+            'BE'    => Country::Belgium,
+            'BG'    => Country::Bulgaria,
+            'HR'    => Country::Croatia,
+            'CY'    => Country::Cyprus,
+            'CZ'    => Country::CzechRepublic,
+            'DE'    => Country::Germany,
+            'DK'    => Country::Denmark,
+            'EE'    => Country::Estonia,
+            'EL'    => Country::Greece,
+            'ES'    => Country::Spain,
+            'FI'    => Country::Finland,
+            'FR'    => Country::France,
+            'GB'    => Country::UnitedKingdom,
+            'HU'    => Country::Hungary,
+            'IE'    => Country::Ireland,
+            'IT'    => Country::Italy,
+            'LT'    => Country::Lithuania,
+            'LU'    => Country::Luxembourg,
+            'LV'    => Country::Latvia,
+            'MT'    => Country::Malta,
+            'NL'    => Country::Netherlands,
+            'PL'    => Country::Poland,
+            'PT'    => Country::Portugal,
+            'RO'    => Country::Romania,
+            'SE'    => Country::Sweden,
+            'SI'    => Country::Slovenia,
+            'SK'    => Country::Slovakia,
+            default => null,
+        };
+    }
 }
