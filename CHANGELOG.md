@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.4.0...v1.5.0) (2026-05-06)
+
+
+### Features
+
+* add formatter interface ([6f5c161](https://github.com/bespin-studios/datavalidation-shared/commit/6f5c1610042f3431976e70f1673fd1032188ed2c))
+
 # [1.4.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.3.0...v1.4.0) (2026-05-06)
 
 
