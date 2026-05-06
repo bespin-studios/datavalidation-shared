@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/bespin-studios/datavalidation-shared/compare/v1.2.1...v1.3.0) (2026-05-06)
+
+
+### Features
+
+* add additional supported countries ([84f8a44](https://github.com/bespin-studios/datavalidation-shared/commit/84f8a44ac07e9dbd5ec489ad2cc390d6c9cc9f7a))
+
 ## [1.2.1](https://github.com/bespin-studios/datavalidation-shared/compare/v1.2.0...v1.2.1) (2025-05-20)
 
 
